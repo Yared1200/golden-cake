@@ -1,0 +1,12 @@
+html {
+    background-color: hotpink;
+}
+
+welcomeMessage {
+    color: grey;
+    text-align: center
+}
+
+playButton {
+    background-color: #5BC6C9;
+}
