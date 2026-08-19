@@ -1,7 +1,13 @@
 html {
     background-color: hotpink;
 }
+copyright {
+    text-align: center
+}
 
+copy-text {
+    text-align: center
+}
 welcomeMessage {
     color: grey;
     text-align: center
